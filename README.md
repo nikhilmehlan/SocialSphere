@@ -2,7 +2,7 @@
 
 ![Social Sphere Logo](src/img/logo2.png)
 
-Welcome to **Social Sphere** - a comprehensive social media platform where you can perform all tasks related to social networking. Connect with friends, share updates, upload photos, and much more!
+Welcome to **Social Sphere** - a comprehensive social media platform where you can perform all tasks related to social networking. Social Sphere is designed to be your one-stop solution for connecting with friends, sharing updates, uploading photos and videos, and engaging with a vibrant community. Whether you're looking to stay in touch with loved ones, discover new content, or express yourself, Social Sphere provides all the tools you need in a seamless and intuitive interface.
 
 ## Table of Contents
 
