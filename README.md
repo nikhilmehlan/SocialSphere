@@ -6,17 +6,17 @@ Welcome to **Social Sphere** - a comprehensive social media platform where you c
 
 ## Table of Contents
 
+-[Technologies Used](#technologiesused)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Technologies Used
 
 Social Sphere is built using the MERN stack:
-## 
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -74,6 +74,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-- **Your Name** - [@your-twitter-handle](https://twitter.com/your-twitter-handle) - your-email@example.com
-- Project Link: [https://github.com/your-username/social-sphere](https://github.com/your-username/social-sphere)
+- **Nikhil Mehlan** - nikhilmehlan1234@gmail.com
+- Project Link: [https://github.com/nikhilmehlan/social-sphere](https://github.com/nikhilmehlan/social-sphere)
 
